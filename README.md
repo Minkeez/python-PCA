@@ -17,6 +17,10 @@ pip install plotly
 ```
 pip install numpy
 ```
+4.pandas
+```
+pip install pandas
+```
 
 ---
 made by Phumin "HourCode" Udomdach
